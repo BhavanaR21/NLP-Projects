@@ -1,0 +1,2 @@
+John/NNP is/VBZ nice/JJ ./.
+I/PRP am/VBP happy/JJ today/NN ./.
